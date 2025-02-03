@@ -11,6 +11,7 @@ def harommal_oszthatok(lista):
 
     return harommal
 
+
 szamok = [3, 6, 9, 1, 2, 12, 15]
 
-print(harommal_oszthatok())
+print(harommal_oszthatok(szamok))
